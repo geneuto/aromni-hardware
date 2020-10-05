@@ -1,0 +1,11 @@
+SHA1 Fingerprint=B2:C7:2A:4D:C2:63:BF:02:31:B1:54:FD:D5:9C:6D:20:61:21:4A:28
+
+ID=07f3c9e2-0a58-4872-8c8a-a935f901ab51
+
+MQTT
+{
+  "host": "logicalis-eugeniostg-iothub.azure-devices.net",
+  "port": 8883,
+  "cloudToDevice": "devices/07f3c9e2-0a58-4872-8c8a-a935f901ab51/messages/devicebound/#",
+  "deviceToCloud": "devices/07f3c9e2-0a58-4872-8c8a-a935f901ab51/messages/events/"
+}
